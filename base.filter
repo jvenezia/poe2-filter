@@ -29,11 +29,13 @@ MinimapIcon 0 Red Star
 Show
 StackSize >= 500
 BaseType == "Gold"
-SetBorderColor 255 255 255 # White
+SetTextColor 255 215 0  # Gold
+SetBorderColor 255 215 0 # Gold
 PlayEffect Orange Temp
 
 Show
 BaseType == "Gold"
+SetTextColor 255 215 0 # Gold
 SetBackgroundColor 0 0 0 0 # Black, fully transparent
 
 #--------------------------
