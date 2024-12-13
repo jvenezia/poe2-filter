@@ -191,18 +191,6 @@ PlayEffect Yellow
 MinimapIcon 1 Yellow Diamond
 
 #--------------------------
-# Rings, Amulets, Belts
-#--------------------------
-
-Show
-Rarity Normal
-Class "Rings" "Amulets" "Belts"
-
-Show
-Class "Rings" "Amulets" "Belts"
-Rarity Magic
-
-#--------------------------
 # Salvagable Items
 #--------------------------
 
@@ -233,7 +221,7 @@ SetBorderColor 0 0 200 # Blue
 Hide
 Rarity == Normal
 Sockets == 0
-Class "Flasks" "Body Armours" "Helmets" "Boots" "Gloves" "Shields" "Foci" "Quivers" "One Hand Maces" "Two Hand Maces" "Staves" "Quarterstaves" "Bows" "Crossbows" "Wands" "Sceptres"
+Class "Belts" "Flasks" "Body Armours" "Helmets" "Boots" "Gloves" "Shields" "Foci" "Quivers" "One Hand Maces" "Two Hand Maces" "Staves" "Quarterstaves" "Bows" "Crossbows" "Wands" "Sceptres"
 DropLevel <= 50
 SetTextColor 200 200 200 200 # Grey
 SetBackgroundColor 0 0 0 0 # Black, fully transparent
@@ -241,7 +229,7 @@ SetBackgroundColor 0 0 0 0 # Black, fully transparent
 Hide
 Rarity == Magic
 Sockets == 0
-Class "Flasks" "Body Armours" "Helmets" "Boots" "Gloves" "Shields" "Foci" "Quivers" "One Hand Maces" "Two Hand Maces" "Staves" "Quarterstaves" "Bows" "Crossbows" "Wands" "Sceptres"
+Class "Belts" "Flasks" "Body Armours" "Helmets" "Boots" "Gloves" "Shields" "Foci" "Quivers" "One Hand Maces" "Two Hand Maces" "Staves" "Quarterstaves" "Bows" "Crossbows" "Wands" "Sceptres"
 DropLevel <= 50
 SetTextColor 136 136 255 200 # Light blue
 SetBackgroundColor 0 0 0 0 # Black, fully transparent
