@@ -197,22 +197,22 @@ MinimapIcon 1 Yellow Diamond
 Show
 Sockets > 0
 Rarity Normal
-SetBorderColor 0 0 0
+SetBorderColor 255 255 255 # White
 
 Show
 Quality > 0
 Rarity Normal
-SetBorderColor 0 0 0
+SetBorderColor 255 255 255 # White
 
 Show
 Sockets > 0
 Rarity Magic
-SetBorderColor 0 0 0
+SetBorderColor 255 255 255 # White
 
 Show
 Quality > 0
 Rarity Magic
-SetBorderColor  0 0 0
+SetBorderColor 255 255 255 # White
 
 #--------------------------
 # Hide
