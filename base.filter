@@ -200,7 +200,7 @@ Rarity Normal
 SetBorderColor 200 200 200 # Grey
 
 Show
-Quality > 10
+Quality > 0
 Rarity Normal
 SetBorderColor 200 200 200 # Grey
 
@@ -210,7 +210,7 @@ Rarity Magic
 SetBorderColor 0 0 200 # Blue
 
 Show
-Quality > 10
+Quality > 0
 Rarity Magic
 SetBorderColor 0 0 200 # Blue
 
@@ -221,6 +221,7 @@ SetBorderColor 0 0 200 # Blue
 Hide
 Rarity == Normal
 Sockets == 0
+Quality == 0
 Class "Belts" "Flasks" "Body Armours" "Helmets" "Boots" "Gloves" "Shields" "Foci" "Quivers" "One Hand Maces" "Two Hand Maces" "Staves" "Quarterstaves" "Bows" "Crossbows" "Wands" "Sceptres"
 DropLevel <= 50
 SetTextColor 200 200 200 200 # Grey
@@ -229,6 +230,7 @@ SetBackgroundColor 0 0 0 0 # Black, fully transparent
 Hide
 Rarity == Magic
 Sockets == 0
+Quality == 0
 Class "Belts" "Body Armours" "Helmets" "Boots" "Gloves" "Shields" "Foci" "Quivers" "One Hand Maces" "Two Hand Maces" "Staves" "Quarterstaves" "Bows" "Crossbows" "Wands" "Sceptres"
 DropLevel <= 50
 SetTextColor 136 136 255 200 # Light blue
