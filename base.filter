@@ -258,6 +258,11 @@ Class "Flasks"
 SetTextColor 136 136 255 200 # Light blue
 SetBackgroundColor 0 0 0 0 # Black, fully transparent
 
+# Magic flasks
+Hide
+BaseType "Scroll of Wisdom"
+AreaLevel > 30
+
 #--------------------------
 # Meta
 #--------------------------
