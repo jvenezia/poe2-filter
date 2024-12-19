@@ -231,6 +231,17 @@ PlayEffect White Beam
 MinimapIcon 1 White Diamond
 
 #--------------------------
+# Expert Items
+#--------------------------
+
+Show
+BaseType "Expert "
+SetBorderColor 255 255 255 # White
+PlayAlertSound 10 300
+PlayEffect White Beam
+MinimapIcon 1 White Diamond
+
+#--------------------------
 # Hide
 #--------------------------
 
