@@ -146,7 +146,7 @@ MinimapIcon 2 Grey Circle
 
 Show
 Class "Currency"
-BaseType "Wisdom" "Shard"
+BaseType "Shard"
 
 # Unknown currency
 Show
