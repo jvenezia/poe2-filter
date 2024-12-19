@@ -198,7 +198,7 @@ Show
 Sockets > 0
 Rarity Normal
 SetBorderColor 255 255 255 # White
-PlayAlertSoundPositional 9 300
+PlayAlertSoundPositional 10 300
 PlayEffect White Beam
 MinimapIcon 1 White Diamond
 
@@ -206,7 +206,7 @@ Show
 Quality > 0
 Rarity Normal
 SetBorderColor 255 255 255 # White
-PlayAlertSoundPositional 9 300
+PlayAlertSoundPositional 10 300
 PlayEffect White Beam
 MinimapIcon 1 White Diamond
 
@@ -214,7 +214,7 @@ Show
 Sockets > 0
 Rarity Magic
 SetBorderColor 255 255 255 # White
-PlayAlertSoundPositional 9 300
+PlayAlertSoundPositional 10 300
 PlayEffect White Beam
 MinimapIcon 1 White Diamond
 
@@ -222,7 +222,7 @@ Show
 Quality > 0
 Rarity Magic
 SetBorderColor 255 255 255 # White
-PlayAlertSoundPositional 9 300
+PlayAlertSoundPositional 10 300
 PlayEffect White Beam
 MinimapIcon 1 White Diamond
 
