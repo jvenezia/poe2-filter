@@ -201,34 +201,34 @@ MinimapIcon 1 Yellow Diamond
 Show
 Sockets > 0
 Rarity Normal
-SetBorderColor 255 255 255 # White
+SetBorderColor 128 128 128 # Grey
 PlayAlertSound 10 300
-PlayEffect White Beam
-MinimapIcon 1 White Diamond
+PlayEffect Grey Beam
+MinimapIcon 1 Grey Diamond
 
 Show
 Quality > 0
 Rarity Normal
-SetBorderColor 255 255 255 # White
+SetBorderColor 128 128 128 # Grey
 PlayAlertSound 10 300
-PlayEffect White Beam
-MinimapIcon 1 White Diamond
+PlayEffect Grey Beam
+MinimapIcon 1 Grey Diamond
 
 Show
 Sockets > 0
 Rarity Magic
-SetBorderColor 255 255 255 # White
+SetBorderColor 128 128 128 # Grey
 PlayAlertSound 10 300
-PlayEffect White Beam
-MinimapIcon 1 White Diamond
+PlayEffect Grey Beam
+MinimapIcon 1 Grey Diamond
 
 Show
 Quality > 0
 Rarity Magic
-SetBorderColor 255 255 255 # White
+SetBorderColor 128 128 128 # Grey
 PlayAlertSound 10 300
-PlayEffect White Beam
-MinimapIcon 1 White Diamond
+PlayEffect Grey Beam
+MinimapIcon 1 Grey Diamond
 
 #--------------------------
 # Expert Items
