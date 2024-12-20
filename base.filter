@@ -237,7 +237,7 @@ MinimapIcon 1 White Diamond
 Show
 BaseType "Expert "
 Class "Rings" "Belts" "Body Armours" "Helmets" "Boots" "Gloves" "Wands" "Sceptres"
-SetBorderColor 136 136 255 # Blue
+SetBorderColor 0 0 255 # Blue
 PlayAlertSound 10 300
 PlayEffect Blue Beam
 MinimapIcon 1 Blue Diamond
