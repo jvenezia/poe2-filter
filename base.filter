@@ -204,7 +204,7 @@ Rarity Normal
 SetBorderColor 0 255 0 # Green
 PlayAlertSound 10 300
 PlayEffect Green Beam
-MinimapIcon 1 White Diamond
+MinimapIcon 1 Green Diamond
 
 Show
 Quality > 0
@@ -212,23 +212,21 @@ Rarity Normal
 SetBorderColor 0 255 0 # Green
 PlayAlertSound 10 300
 PlayEffect Green Beam
-MinimapIcon 1 White Diamond
+MinimapIcon 1 Green Diamond
 
 Show
 Sockets > 0
 Rarity Magic
 SetBorderColor 0 255 0 # Green
 PlayAlertSound 10 300
-PlayEffect Green Beam
-MinimapIcon 1 White Diamond
+MinimapIcon 1 Green Diamond
 
 Show
 Quality > 0
 Rarity Magic
 SetBorderColor 0 255 0 # Green
 PlayAlertSound 10 300
-PlayEffect Green Beam
-MinimapIcon 1 White Diamond
+MinimapIcon 1 Green Diamond
 
 #--------------------------
 # Expert Items
@@ -239,7 +237,7 @@ BaseType "Expert"
 Class "Rings" "Belts" "Body Armours" "Helmets" "Boots" "Gloves" "Wands" "Sceptres" "Foci"
 SetBorderColor 255 0 0 # Red
 PlayAlertSound 10 300
-MinimapIcon 1 Blue Diamond
+MinimapIcon 1 Red Diamond
 
 #--------------------------
 # Hide
