@@ -201,33 +201,33 @@ MinimapIcon 1 Yellow Diamond
 Show
 Sockets > 0
 Rarity Normal
-SetBorderColor 255 255 255 # White
+SetBorderColor 0 255 0 # Green
 PlayAlertSound 10 300
-PlayEffect White Beam
+PlayEffect Green Beam
 MinimapIcon 1 White Diamond
 
 Show
 Quality > 0
 Rarity Normal
-SetBorderColor 255 255 255 # White
+SetBorderColor 0 255 0 # Green
 PlayAlertSound 10 300
-PlayEffect White Beam
+PlayEffect Green Beam
 MinimapIcon 1 White Diamond
 
 Show
 Sockets > 0
 Rarity Magic
-SetBorderColor 255 255 255 # White
+SetBorderColor 0 255 0 # Green
 PlayAlertSound 10 300
-PlayEffect White Beam
+PlayEffect Green Beam
 MinimapIcon 1 White Diamond
 
 Show
 Quality > 0
 Rarity Magic
-SetBorderColor 255 255 255 # Grey
+SetBorderColor 0 255 0 # Green
 PlayAlertSound 10 300
-PlayEffect Grey Beam
+PlayEffect Green Beam
 MinimapIcon 1 White Diamond
 
 #--------------------------
@@ -235,11 +235,10 @@ MinimapIcon 1 White Diamond
 #--------------------------
 
 Show
-BaseType "Expert "
-Class "Rings" "Belts" "Body Armours" "Helmets" "Boots" "Gloves" "Wands" "Sceptres"
-SetBorderColor 0 0 255 # Blue
+BaseType "Expert"
+Class "Rings" "Belts" "Body Armours" "Helmets" "Boots" "Gloves" "Wands" "Sceptres" "Foci"
+SetBorderColor 255 0 0 # Red
 PlayAlertSound 10 300
-PlayEffect Blue Beam
 MinimapIcon 1 Blue Diamond
 
 #--------------------------
