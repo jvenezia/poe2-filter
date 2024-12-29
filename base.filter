@@ -216,14 +216,14 @@ MinimapIcon 1 Green Diamond
 
 Show
 Sockets > 0
-Rarity Magic
+Rarity >= Magic
 SetBorderColor 0 255 0 # Green
 PlayAlertSound 10 300
 MinimapIcon 1 Green Diamond
 
 Show
 Quality > 0
-Rarity Magic
+Rarity >= Magic
 SetBorderColor 0 255 0 # Green
 PlayAlertSound 10 300
 MinimapIcon 1 Green Diamond
